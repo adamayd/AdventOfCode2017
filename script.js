@@ -18,3 +18,14 @@
 // How many steps are required to carry the data from the square identified in your puzzle input all the way to the access port?
 
 // Your puzzle input is 347991.
+
+const puzzle = 347991
+let loopNum = 2
+let adamUp = 1
+
+function whichRing() {
+    let squareRoot = Math.floor(Math.sqrt(puzzle))
+    loopNum = 
+}
+
+whichRing()
